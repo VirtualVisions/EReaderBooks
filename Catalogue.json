@@ -1,0 +1,16 @@
+[
+	{
+		"urlIndex": 0,
+		"title": "Book 1",
+		"author": "An Author",
+		"description": "A book about things.",
+		"tags": ["Space", "Fiction"]
+	},
+	{
+		"urlIndex": 1,
+		"title": "A Secondary Book",
+		"author": "John Bookman",
+		"description": "Could this also be a book?",
+		"tags": ["Nonfiction", "Science"]
+	}
+]
