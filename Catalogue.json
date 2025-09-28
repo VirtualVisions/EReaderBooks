@@ -1,16 +1,52 @@
 [
 	{
 		"urlIndex": 0,
-		"title": "Book 1",
-		"author": "An Author",
-		"description": "A book about things.",
-		"tags": ["Space", "Fiction"]
+		"title": "A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back",
+		"author": "Bruce Schneier",
+		"description": "A hack is any means of subverting a system’s rules in unintended ways. The tax code isn’t computer code, but a series of complex formulas. It has vulnerabilities; we call them “loopholes.” We call exploits “tax avoidance strategies.” And there is an entire industry of “black hat” hackers intent on finding exploitable loopholes in the tax code. We call them accountants and tax attorneys.",
+		"tags": [
+			"Politics"
+		]
 	},
 	{
 		"urlIndex": 1,
-		"title": "A Secondary Book",
-		"author": "John Bookman",
-		"description": "Could this also be a book?",
-		"tags": ["Nonfiction", "Science"]
+		"title": "Frankenstein; Or, The Modern Prometheus",
+		"author": "Mary Wollstonecraft Shelley",
+		"description": "\"Frankenstein; Or, The Modern Prometheus\" by Mary Wollstonecraft Shelley is a novel written in the early 19th century. The story revolves around Victor Frankenstein, a young scientist who becomes obsessed with creating life, leading him to construct a living being from reanimated body parts. The book explores themes of ambition, the consequences of man's desire to play God, and the isolation that arises from the act of creation. At the start of the novel, we are introduced to Robert Walton, an explorer, who writes letters to his sister while embarking on an ambitious expedition to the North Pole. Walton describes his enthusiasm for adventure and the mysteries of the Arctic, but also expresses a deep longing for companionship. After some harrowing events, Walton rescues a distressed and emaciated man—Victor Frankenstein—who begins to share his tragic tale. As he recounts the story of his early life, the loss of loved ones, and his blinding pursuit of scientific knowledge, a sense of dread and foreshadowing permeates the narrative, hinting at the monstrous consequences of Frankenstein’s obsession. This opening establishes a captivating framework that sets the stage for the intense exploration of humanity, morality, and the impulse to transcend natural limits.",
+		"tags": [
+			"Science fiction",
+			"Horror tales",
+			"Gothic Fiction"
+		]
+	},
+	{
+		"urlIndex": 2,
+		"title": "Moby-Dick; or, The Whale",
+		"author": "Herman Melville",
+		"description": "\"Moby-Dick; or, The Whale\" by Herman Melville is a novel written in the mid-19th century. The book explores themes of obsession, vengeance, and humanity's relationship with nature through the experiences of its central character, Ishmael, who embarks on a whaling voyage aboard the Pequod, captained by the enigmatic and vengeful Ahab. The opening of \"Moby-Dick\" introduces Ishmael, who shares his existential musings and the reasons for his desire to go to sea. He portrays the bustling port city of New Bedford, highlighting the magnetic pull of the ocean on the hearts of men. As he prepares for his journey, Ishmael reflects on his own internal struggles and motivations, ultimately leading him to desire adventure in the whaling industry. He arrives in New Bedford, confronts the challenges of finding a place to stay, and has a rather amusing encounter with the landlord and an unexpected harpooneer, setting the stage for his subsequent adventures at sea.",
+		"tags": [
+			"Whaling",
+			"Psychological fiction",
+			"Adventure stories"
+		]
+	},
+	{
+		"urlIndex": 3,
+		"title": "The Complete Works of William Shakespeare",
+		"author": "William Shakespeare",
+		"description": "\"The Complete Works of William Shakespeare\" by William Shakespeare is a collection of classic literary works written in the late 16th to early 17th centuries. This comprehensive anthology includes a wide range of genres, encompassing sonnets, comedies, histories, and tragedies, all showcasing Shakespeare's unparalleled mastery of language and character development. Important themes such as love, ambition, betrayal, and the complexities of human nature resonate throughout these timeless pieces. At the start of this collection, the reader is immediately introduced to Shakespeare's \"Sonnets,\" which serve as an eloquent prelude to his themes of love and beauty. These opening verses explore the fleeting nature of beauty and time, with a poignant focus on the necessity of procreation to preserve youthful beauty. The sonnets address a young man of remarkable beauty and the poet's passionate urge for him to reproduce, emphasizing the tensions between self-love and the desire for legacy. Through rhythmic language and rich imagery, the sonnets present a universal contemplation on love, mortality, and the human experience, inviting readers to engage deeply with concepts that remain relevant today.",
+		"tags": [
+			"English Drama",
+			"Comedy"
+		]
+	},
+	{
+		"urlIndex": 4,
+		"title": "Unmasking Autism: Discovering the New Faces of Neurodiversity",
+		"author": "Devon Price",
+		"description": "For every visibly Autistic person you meet, there are countless “masked” Autistic people who pass as neurotypical. Masking is a common coping mechanism in which Autistic people hide their identifiably Autistic traits in order to fit in with societal norms, adopting a superficial personality at the expense of their mental health. This can include suppressing harmless stims, papering over communication challenges by presenting as unassuming and mild-mannered, and forcing themselves into situations that cause severe anxiety, all so they aren’t seen as needy or “odd.”",
+		"tags": [
+			"Psychology"
+		]
 	}
 ]
